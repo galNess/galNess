@@ -32,7 +32,7 @@ If you would like to connect, please reach out via [![LinkedIn](https://img.shie
 <img src="https://img.shields.io/badge/framework-PyTorch-EF4B28" alt="PyTorch">
 </p>
 
-- [arXiv reformer](https://github.com/galNess/arxiv-reformatter): A script that automatically cleans and organizes daily arXiv digest emails using GitHub actions.
+- [arXiv reformatter](https://github.com/galNess/arxiv-reformatter): A script that automatically cleans and organizes daily arXiv digest emails using GitHub actions.
 <p align="right">
 <img src="https://img.shields.io/badge/language-python-3670A0" alt="python">
 </p>
